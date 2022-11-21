@@ -6,7 +6,7 @@ The manuscript is available on this website _URL_ and could be cited as follows:
   
  **Cite2:**
 
-**Protypes used in the paper**
+**Protptypes used in the paper**
 
 E-commerce Application
 https://www.figma.com/proto/7N8BxMafoj1lmPPuW66wMJ/Online-Groceries
