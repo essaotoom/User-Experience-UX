@@ -6,6 +6,7 @@ This file is acompanied with a research paper for UX measurement based on machin
   
 **Cite1:**  
 @article{ATOUM2023102929,
+
 title = {Measurement of key performance indicators of user experience based on software requirements},
 
 journal = {Science of Computer Programming},
@@ -23,7 +24,6 @@ url = {https://www.sciencedirect.com/science/article/pii/S0167642323000114},
 author = {Issa Atoum},
 
 keywords = {User experience, UX KPI, Requirements elicitation, UX design, UX/UI evaluation, UX measurement},
-
 }
 
 **Abstract**
