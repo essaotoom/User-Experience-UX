@@ -11,6 +11,8 @@ title = {Measurement of key performance indicators of user experience based on s
 
 journal = {Science of Computer Programming},
 
+volume = {226},
+
 pages = {102929},
 
 year = {2023},
